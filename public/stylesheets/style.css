@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.clear {
+  clear:both;
+}
+
+#simulator {
+
+}
+#simulator .label {
+  width: 100px;
+}
+#simulator .inline {
+  float:left;
+}

@@ -1,0 +1,41 @@
+
+
+<form id="simulator" method="post" action="/ask">
+
+  <p>Ultimately this would be a SMS message originating from a person that needs help.</p>
+  <p>I have added a number of predefiend messages here to make things easy, select one from the
+  dropdown or enter a custom message</p>
+
+  <div class="inline label">
+    Ask for help:
+  </div>
+  <div class="inline">
+    <select id="ask" class="">
+      <option value="help"></option>
+      <option value="I need help">I need Help</option>
+      <option value="help me">help me</option>
+      <option value="ayuda me">ayuda me</option>
+      <option value="ayuda">ayuda</option>
+    </select>
+  </div>
+
+  <br><br>
+
+  <div class="clear inline label">
+    Custom:
+  </div>
+  <div class="inline">
+    <input type="text" placeholder="Enter ustom help message" id="custom" class="" />
+  </div>
+
+  <br><br>
+
+  <div id="response">
+  </div>
+
+  <br><br>
+
+  <div id="map" style="height:500px; width:500px;"></div>
+
+
+</form>
