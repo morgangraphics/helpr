@@ -4,6 +4,8 @@
 
 # helpr - [TADHack 2017 Global Winner](http://blog.tadhack.com/2017/10/02/tadhack-global-2017-winners/)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/wNqz9UXG6gMPFv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/jaquayle/tadhack-global-2017-winners-draft#107" title="TADHack Global 2017 Winners" target="_blank">TADHack Global 2017 Winners</a> </strong></div>
+
 Meant to supplement a Red Cross type organization in the aftermath of a natural disaster using SMS. Helpr uses SMS and ML to help prioritize disaster assistance and optimize response efforts
 
 
