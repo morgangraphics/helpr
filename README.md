@@ -1,4 +1,8 @@
-# helpr
+![TADHack2017 Global Winner](public/images/tadhack2017.png)
+
+
+
+# helpr - [TADHack 2017 Global Winner](http://blog.tadhack.com/2017/10/02/tadhack-global-2017-winners/)
 
 Meant to supplement a Red Cross type organization in the aftermath of a natural disaster using SMS. Helpr uses SMS and ML to help prioritize disaster assistance and optimize response efforts
 
@@ -6,7 +10,7 @@ Meant to supplement a Red Cross type organization in the aftermath of a natural 
 
 ## objective
 
-Build a high impact, low latency application to send and receive SMS messages in the event of a natural disaster where resources are strained or non-exisent.
+Build a high impact, low latency application to send and receive SMS messages in the event of a natural disaster where resources are strained or non-existent.
 
 SMS is a low throughput technology that casts the widest possible net reaching the most advanced smart phones to old flip phones.
 
